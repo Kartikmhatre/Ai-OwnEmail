@@ -6,7 +6,7 @@ An intelligent email client powered by AI that lets you manage your emails with 
 
 ## ✨ Features
 
-- **🔍 AI-Powered Search** - Ask questions about your emails in natural language
+- **🔍 AI-Powered Search** - Ask questions about your emails in natural language 
 - **✉️ Smart Compose** - Write emails faster with AI autocomplete suggestions
 - **📧 Multi-Account Support** - Connect multiple Google or Office365 accounts 
 - **🎨 Modern UI** - Beautiful, responsive interface with dark mode support
