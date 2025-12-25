@@ -16,7 +16,7 @@ An intelligent email client powered by AI that lets you manage your emails with 
 ## 🛠️ Tech Stack
 
 - **Framework:** Next.js 14 (App Router)
-- **Database:** MongoDB (with Prisma ORM)
+- **Database:** MongoDB (with Prisma ORM) d
 - **Authentication:** Clerk
 - **Email Provider:** Aurinko API
 - **AI:** Google Gemini 1.5 Flash
