@@ -20,7 +20,7 @@ const config = {
         fixStyle: "inline-type-imports",
       },
     ],
-    "@typescript-eslint/require-await": "off",
+    "@typescript-eslint/require-await": "off", 
   },
 };
 module.exports = config;
