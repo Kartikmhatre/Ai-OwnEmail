@@ -8,7 +8,7 @@ export default function AuthoriseButton() {
     const syncEmails = api.mail.syncEmails.useMutation()
     const [accountId, setAccountId] = useLocalStorage('accountId', '')
     return <div className="flex flex-col gap-2">
-        <Button size='sm' variant={'outline'} onClick={() => {
+        <Button size='sm' variant={'outline'} onClick={() => { 
             if (!accountId) return
             syncEmails.mutate({ accountId })
         }}>
