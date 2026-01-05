@@ -23,4 +23,4 @@ const config = {
     "@typescript-eslint/require-await": "off", 
   },
 };
-module.exports = config;
+module.exports = config; 
