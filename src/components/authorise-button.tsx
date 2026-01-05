@@ -4,7 +4,7 @@ import { getAurinkoAuthorizationUrl } from "@/lib/aurinko"
 import { api } from "@/trpc/react"
 import { useLocalStorage } from "usehooks-ts"
 
-export default function AuthoriseButton() {
+export default function AuthoriseButton() { 
     const syncEmails = api.mail.syncEmails.useMutation()
     const [accountId, setAccountId] = useLocalStorage('accountId', '')
     return <div className="flex flex-col gap-2">
